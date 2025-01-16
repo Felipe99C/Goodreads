@@ -1,0 +1,6 @@
+# SQLite database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+GoodReads_Analise.py
